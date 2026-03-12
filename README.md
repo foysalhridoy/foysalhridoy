@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm Md. Ferdous Foysal Hridoy, a CSE student at Daffodil International University with a passion for programming, problem-solving, and tech innovation. Skilled in C, C++, Java, and Python, I enjoy exploring AI, system design, and creative web development. Always eager to learn, build, and collaborate.
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=🔥+Md.+Ferdous+Foysal+Hridoy+🔥;CSE+Student+%40+Daffodil+International+University;Building+Real-Time+Apps+%7C+Exploring+AI+%7C+Open+Source;Full+Stack+Developer+%7C+WebRTC+Enthusiast+%7C+Python+Learner)](https://git.io/typing-svg)
+
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdferdhridoy1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zpqPkWja) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ffoysalhridoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdous_foysal_hridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ferdous-foysal-hridoy-43758a319/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ferdousfoysalhridoy2020/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Ferdous-Foysal-Hridoy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/foysal_hridoy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@foysal_hridoy) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/mr_hridoy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ffoysalhridoy@gmail.com ) 
@@ -13,7 +17,7 @@ I'm Md. Ferdous Foysal Hridoy, a CSE student at Daffodil International Universit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalhridoy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=foysalhridoy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=foysalhridoy&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -26,6 +30,3 @@ I'm Md. Ferdous Foysal Hridoy, a CSE student at Daffodil International Universit
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/foysal_hridoy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/foysal_hridoy) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foysal_hridoy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
