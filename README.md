@@ -54,7 +54,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foysalhridoy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=foysalhridoy&theme=vue-dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foysalhridoy&theme=vue-dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalhridoy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -62,21 +62,23 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=foysalhridoy&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## ✍️ Random Dev Quote
 
+<div align="center">
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=foysalhridoy&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+![GitHub Contributors](https://github-contributors-stats.vercel.app/api?username=foysalhridoy&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
@@ -92,7 +94,7 @@ If you find my work helpful, you can support me here:
 
 <div align="center">
 
-![Visit Count](https://visitcount.itsvg.in/api?id=foysalhridoy&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=foysalhridoy&color=blue&style=flat-square&label=Profile+Views)
 
 Made by Ferdous Foysal Hridoy
 
