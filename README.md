@@ -1,101 +1,157 @@
-# 💫 About Me
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=🔥+Md.+Ferdous+Foysal+Hridoy+🔥;CSE+Student+%40+Daffodil+International+University;Building+Real-Time+Apps/Webs+%7C+Exploring+AI+%7C+Open+Source;Full+Stack+Developer+%7C+WebRTC+Enthusiast+%7C+Python+Learner)](https://git.io/typing-svg)
+
+```
+███████╗███████╗██████╗ ██████╗  ██████╗ ██╗   ██╗███████╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔═══██╗██║   ██║██╔════╝
+█████╗  █████╗  ██████╔╝██║  ██║██║   ██║██║   ██║███████╗
+██╔══╝  ██╔══╝  ██╔══██╗██║  ██║██║   ██║██║   ██║╚════██║
+██║     ███████╗██║  ██║██████╔╝╚██████╔╝╚██████╔╝███████║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi+there%2C+I'm+Ferdous+Foysal+Hridoy+%F0%9F%91%8B;Full+Stack+Developer+%7C+WebRTC+Enthusiast;Building+Real-Time+Apps+%26+Exploring+AI;Open+Source+Contributor+%7C+Python+Learner)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=foysalhridoy&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+<br/>
+
+<!-- ─────────────────────── ABOUT ─────────────────────── -->
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalhridoy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" />
+
+### 🧑‍💻 About Me
+
+```yaml
+📍 Location   →  Bangladesh 🇧🇩
+🎓 Education  →  CSE @ Daffodil International University
+🔭 Currently  →  Building WebRTC real-time apps
+🌱 Learning   →  Python • AI/ML • System Design
+⚡ Interests  →  Open Source • Real-Time Tech • UI/UX
+💬 Ask me     →  Web Dev • Django • Flutter • WebRTC
+📫 Reach me   →  ffoysalhridoy@gmail.com
+```
+
+<br clear="right"/>
+
+<br/>
+
+<!-- ─────────────────────── SKILLS ─────────────────────── -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,py,php,java,go,html,css&theme=dark&perline=10)](https://skillicons.dev)
+
+**Frameworks · Databases · Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=django,flutter,mysql,git,github,figma,vscode,linux&theme=dark&perline=8)](https://skillicons.dev)
+
+**Design Suite**
+
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,figma&theme=dark&perline=3)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── STATS ─────────────────────── -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=foysalhridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalhridoy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=foysalhridoy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" />
+</div>
+
+<br/>
+
+<!-- ─────────────────────── SNAKE ─────────────────────── -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foysalhridoy/foysalhridoy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/foysalhridoy/foysalhridoy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/foysalhridoy/foysalhridoy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── TROPHY ─────────────────────── -->
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=foysalhridoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── QUOTE ─────────────────────── -->
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── CONNECT ─────────────────────── -->
 
 ## 🌐 Connect With Me
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdferdhridoy1) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zpqPkWja) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ffoysalhridoy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdous_foysal_hridoy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ferdous-foysal-hridoy-43758a319/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ferdousfoysalhridoy2020/) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Ferdous-Foysal-Hridoy) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/foysal_hridoy) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@foysal_hridoy) 
-[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/mr_hridoy) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ffoysalhridoy@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foysalhridoy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foysalhridoy&theme=vue-dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalhridoy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ferdous-foysal-hridoy-43758a319/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffoysalhridoy@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mdferdhridoy1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@foysal_hridoy)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zpqPkWja)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferdous_foysal_hridoy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ffoysalhridoy)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/foysal_hridoy)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mr_hridoy)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ferdousfoysalhridoy2020/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Md-Ferdous-Foysal-Hridoy)
 
 </div>
 
----
+<br/>
 
-## ✍️ Random Dev Quote
+<!-- ─────────────────────── SUPPORT ─────────────────────── -->
+
+## ☕ Support My Work
 
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+*If something I built or shared helped you — fuel the next one.*
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/foysal_hridoy)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foysal_hridoy)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/foysal_hridoy)
 
 </div>
 
----
+<br/>
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  
-![GitHub Contributors](https://github-contributors-stats.vercel.app/api?username=foysalhridoy&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 💰 Support Me
-
-If you find my work helpful, you can support me here:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/foysal_hridoy) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/foysal_hridoy) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foysal_hridoy)
-
----
+<!-- ─────────────────────── FOOTER ─────────────────────── -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=foysalhridoy&color=blue&style=flat-square&label=Profile+Views)
-
-Made by Ferdous Foysal Hridoy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
