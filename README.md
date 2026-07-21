@@ -1,6 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C7B7&height=260&section=header&text=Md%20Ferdous%20Foysal%20Hridoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Real-Time%20Systems%20•%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C7B7&height=260&section=header&text=Md.%20Ferdous%20Foysal%20Hridoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Real-Time%20Systems%20•%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/> -->
+
+<div align="center">
+
+```
+██╗  ██╗██████╗ ██╗██████╗  ██████╗ ██╗   ██╗
+██║  ██║██╔══██╗██║██╔══██╗██╔═══██╗╚██╗ ██╔╝
+███████║██████╔╝██║██║  ██║██║   ██║ ╚████╔╝ 
+██╔══██║██╔══██╗██║██║  ██║██║   ██║  ╚██╔╝  
+██║  ██║██║  ██║██║██████╔╝╚██████╔╝   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝    ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi+there%2C+I'm+Md.Ferdous+Foysal+Hridoy+%F0%9F%91%8B;Full+Stack+Developer+%7C+WebRTC+Enthusiast;Building+Real-Time+Apps+%26+Exploring+AI;Open+Source+Contributor+%7C+Python+Learner)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=%3E+Building+scalable+Full+Stack+apps;%3E+Real-time+comms+with+WebRTC;%3E+Exploring+AI+%2F+ML+%2F+System+Design;%3E+Shipping+ideas+into+products" alt="Typing SVG" />
@@ -14,21 +31,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
-
-## ⚡ About Me
-
-```yaml
-current_focus:    Scalable Full Stack web apps & real-time communication platforms (WebRTC)
-collaboration:    Open Source · AI-powered apps · Developer tools · Startup ideas
-learning:         Distributed Systems · System Design · Machine Learning · Cloud Architecture
-exploring:        Python · AI/ML · Backend Engineering
-ask_me_about:     Full Stack Dev · Django · Flutter · JavaScript · PHP · WebRTC · Git/GitHub
-fun_fact:         "Turning ideas into real products, one commit at a time."
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
-
-## 🌐 Connect With Me
 
 <div align="center">
 
@@ -48,8 +50,6 @@ fun_fact:         "Turning ideas into real products, one commit at a time."
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
-
-## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -79,8 +79,6 @@ fun_fact:         "Turning ideas into real products, one commit at a time."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=foysalhridoy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117"/>
@@ -100,8 +98,6 @@ fun_fact:         "Turning ideas into real products, one commit at a time."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/foysalhridoy/foysalhridoy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -112,26 +108,6 @@ fun_fact:         "Turning ideas into real products, one commit at a time."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=foysalhridoy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
-
-## 🔝 Top Contributed Repository
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=foysalhridoy&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
-### ✍️ Random Dev Quote
-
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -140,13 +116,9 @@ fun_fact:         "Turning ideas into real products, one commit at a time."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-## ☕ Support My Work
-
 <div align="center">
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/foysal_hridoy)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/foysal_hridoy)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,50:4A00E0,100:8E2DE2&height=150&section=footer" width="100%"/>
