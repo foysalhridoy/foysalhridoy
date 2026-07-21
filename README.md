@@ -1,14 +1,14 @@
 <div align="center">
 <div align="center">
 
-```
+<pre>
 ██╗  ██╗██████╗ ██╗██████╗  ██████╗ ██╗   ██╗
 ██║  ██║██╔══██╗██║██╔══██╗██╔═══██╗╚██╗ ██╔╝
 ███████║██████╔╝██║██║  ██║██║   ██║ ╚████╔╝ 
 ██╔══██║██╔══██╗██║██║  ██║██║   ██║  ╚██╔╝  
 ██║  ██║██║  ██║██║██████╔╝╚██████╔╝   ██║   
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝    ╚═╝
-```
+</pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi+there%2C+I'm+Md.Ferdous+Foysal+Hridoy+%F0%9F%91%8B;Full+Stack+Developer+%7C+WebRTC+Enthusiast;Building+Real-Time+Apps+%26+Exploring+AI;Open+Source+Contributor+%7C+Python+Learner)](https://git.io/typing-svg)
 
@@ -98,8 +98,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/foysalhridoy/foysalhridoy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Animated snake eating your contribution graph — requires a one-time GitHub Action setup (see note below).</sub>
 
 </div>
 
