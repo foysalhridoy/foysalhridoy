@@ -1,7 +1,4 @@
 <div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C7B7&height=260&section=header&text=Md.%20Ferdous%20Foysal%20Hridoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Real-Time%20Systems%20•%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/> -->
-
 <div align="center">
 
 ```
