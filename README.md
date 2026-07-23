@@ -1,5 +1,10 @@
 <div align="center">
-<div align="center">
+<table>
+<tr>
+<td width="200">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN210cmNnNm9kbGFvYXB2MmNxbmI1bmwzaXVwdmw0dmdhYzBkZGY4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" width="180"/>
+</td>
+<td>
 
 <pre>
 ██╗  ██╗██████╗ ██╗██████╗  ██████╗ ██╗   ██╗
@@ -10,9 +15,11 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝    ╚═╝
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi+there%2C+I'm+Md.Ferdous+Foysal+Hridoy+%F0%9F%91%8B;Full+Stack+Developer+%7C+WebRTC+Enthusiast;Building+Real-Time+Apps+%26+Exploring+AI;Open+Source+Contributor+%7C+Python+Learner)](https://git.io/typing-svg)
+</td>
+</tr>
+</table>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=600&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi+there%2C+I'm+Md.Ferdous+Foysal+Hridoy+%F0%9F%91%8B;Full+Stack+Developer+%7C+WebRTC+Enthusiast;Building+Real-Time+Apps+%26+Exploring+AI;Open+Source+Contributor+%7C+Python+Learner)](https://git.io/typing-svg)
 
 </div>
 
