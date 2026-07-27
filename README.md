@@ -94,17 +94,11 @@
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=foysalhridoy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117"/>
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=foysalhridoy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117"/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=foysalhridoy&theme=radical&hide_border=true&background=0D1117"/>
+<img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=foysalhridoy&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=foysalhridoy&theme=react-dark&hide_border=true&area=true&bg_color=0d1117)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
